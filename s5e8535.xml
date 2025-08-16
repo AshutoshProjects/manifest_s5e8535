@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <!--
 Copyright (C) 2025 AshutoshProjects
 
@@ -15,7 +16,6 @@ You should have received a copy of the GNU General Public License
 along with this program. If not, see <https://www.gnu.org/licenses/>.
 -->
 
-<?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     <remote name="LineageOS"
         fetch="https://github.com/LineageOS/"

@@ -5,7 +5,7 @@ This repository contains the manifest for building LineageOS 22.2 for Samsung s5
 To initialize your repo with this manifest, run:
 
 ```
-git clone -b lineage-22.2 https://github.com/AshutoshProjects/manifest_s5e8535.git .repo/manifest_s5e8535
+git clone -b lineage-22.2 https://github.com/AshutoshProjects/manifest_s5e8535.git .repo/local_manifests
 ```
 
 ## 📄 License
